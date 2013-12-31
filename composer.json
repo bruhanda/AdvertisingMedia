@@ -1,0 +1,11 @@
+{
+	"require": {
+		"phpunit/phpunit": "3.7.24",
+		"phing/phing": "dev-master"
+	}
+}
+{
+    "require": {
+        "bmidget/kohana-formo": ">=3.1",
+    }
+} 

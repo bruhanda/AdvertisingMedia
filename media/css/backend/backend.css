@@ -1,0 +1,17 @@
+/*
+    Document   : backend.css
+    Created on : 24.12.2013, 16:03:42
+    Author     : VS
+    Description:
+        Purpose of the stylesheet follows.
+*/
+body{
+    background-image: url(/media/img/backend/background.png);
+}
+input.search {
+  background-color:#FCFCFC;
+  background-image:url(http://detail.herokuapp.com/img/lens.png);
+  background-position:95% 50%;
+  background-repeat:no-repeat no-repeat;
+}
+
